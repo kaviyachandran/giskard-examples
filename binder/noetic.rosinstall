@@ -11,38 +11,6 @@ repositories:
     type: git
     url: https://github.com/PR2/pr2_kinematics.git
     version: kinetic-devel
-  iai_tiago:
-    type: git
-    url: https://github.com/code-iai/iai_tiago.git
-    version: main
-  iai_hsr:
-    type: git
-    url: https://github.com/code-iai/iai_hsr.git
-    version: main
-  iai_tracy:
-    type: git
-    url: https://github.com/code-iai/iai_tracy.git
-    version: main
-  robotiq_2finger_grippers:
-    type: git
-    url: https://github.com/Danfoa/robotiq_2finger_grippers.git
-    version: master
-  iai_boxy:
-    type: git
-    url: https://github.com/code-iai/iai_boxy.git
-    version: master
-  stretch_ros:
-    type: git
-    url: https://github.com/hello-robot/stretch_ros.git
-    version: noetic
-  armar6_description:
-    type: git
-    url: https://github.com/cram2/armar6_description.git
-    version: main
-  kdl_ik_services:
-    type: git
-    url: https://github.com/cram2/kdl_ik_service.git
-    verison: master
   orocos_kinematics_dynamics:
     type: git
     url: https://github.com/orocos/orocos_kinematics_dynamics.git
@@ -55,3 +23,8 @@ repositories:
     type: git
     url: https://github.com/SemRoCo/giskard_msgs.git
     version: devel
+  iai_kitchen:
+    type: git
+    url: https://github.com/code-iai/iai_maps.git
+    version: master
+    
