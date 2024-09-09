@@ -26,7 +26,7 @@
 
 ### Option 2: Run on BinderHub
 
-https://binder.intel4coro.de/v2/gh/yxzhan/giskard-examples.git/main?urlpath=%2Flab%2Ftree%2Fnotebooks%2Fplayground.ipynb
+https://binder.intel4coro.de/v2/gh/kaviyachandran/giskard-examples.git/main?urlpath=%2Flab%2Ftree%2Fnotebooks%2Fexample_query_giskard_reasoner.ipynb
 
 ## Tutorials of giskardpy
 
